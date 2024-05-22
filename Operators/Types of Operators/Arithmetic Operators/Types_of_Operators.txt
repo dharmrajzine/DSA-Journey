@@ -25,6 +25,10 @@
     - Less than or equal to (<=)
 //////////////////////////////////////////////////////////////////////
 - Logical Operators
+    1 - AND Operator (&&) - if (a && b)[if true execute else don't] 
+    2 - OR Operator (||) - if (a || b) [if one of them is true to execute else don't]
+    3 - NOT Operator (!) - !(a < b) [returns false if a is smaller thab b]
+//////////////////////////////////////////////////////////////////////
 - Bitwise Operators
 //////////////////////////////////////////////////////////////////////
 - Assignment Operators
