@@ -19,6 +19,6 @@ public class ArithmeticOperators {
         System.out.println("The difference of the two numbers is: " + difference);
         System.out.println("The product of the two numbers is: " + product);
         System.out.println("The quotient of the two number is: " + quotient);
-
+        sc.close();
     }
 }
