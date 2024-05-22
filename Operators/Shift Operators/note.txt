@@ -1,0 +1,13 @@
+in java shift operators are the special type of operators that work on the bits of the data.
+These operators are used to shift the bits of the numbers from left to right or right to left depending on the type of shift operator used.
+
+1. Signed Left Shift Operator <<
+    the left shift operator moves all bits by a given number of bits to the left.
+
+2. Signed Right Shift >>
+    the right shift operator moves all bits by a given number of bits to the right.
+
+3. Unsigned Right Shift >>>
+    it is the same as the signed right shift, but the vacant leftmost position is filled with 0 instead of the sign bit.
+
+    
