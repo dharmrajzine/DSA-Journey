@@ -1,0 +1,49 @@
+
+ Operators in Java
+ Symbols that tell compiler to perform some operation
+
+- Arithmetic Operators (Binary/Unary) / Ternary
+    Binary
+    +   Addition
+    -   Subtraction
+    *   Multiplication
+    /   Division
+    %   (Modulus Operator) return remainder
+
+    Unary
+    ++
+    --
+//////////////////////////////////////////////////////////////////////
+- Relational Operators 
+    Java Relational Operators are a bunch of binary operators used to check for relations between two operands including equality, greater than, less than etc.
+
+    - Equal to (==)
+    - Not equal to (!=)
+    - Greater than (>)
+    - Less than (<)
+    - Greater than or equal to (>=)
+    - Less than or equal to (<=)
+//////////////////////////////////////////////////////////////////////
+- Logical Operators
+- Bitwise Operators
+//////////////////////////////////////////////////////////////////////
+- Assignment Operators
+    the Assignment Operator is generally of two types.
+
+1- Simple Assignment Operator
+    the simple Assignment Operator is used with "=" sign.
+
+    - = is used to assign the value on the right to the variable on the left.
+
+2- Compound Assignment Operator
+    The Compound Operator is used where +,-,* and / is used with the = Operator.
+
+    - += it operates by adding the current value off the variable on the left to the value on the right and then assigning the result to the ioerand on the left.
+
+    - -= It operates by subtracting the variable’s value on the right from the current value of the variable on the left and then assigning the result to the operand on the left. 
+
+    - *= It operates by multiplying the current value of the variable on the left to the value on the right and then assigning the result to the operand on the left. 
+
+    - /= It operates by dividing the current value of the variable on the left by the value on the right and then assigning the quotient to the operand on the left. 
+
+    - %= It operates by dividing the current value of the variable on the left by the value on the right and then assigning the remainder to the operand on the left. 
