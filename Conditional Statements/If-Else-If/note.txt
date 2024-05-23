@@ -1,0 +1,2 @@
+Java IF-ELSE-IF ladder
+    is used to decide among multiple options. THe if statements are executed from the top down. As soon as one of the conditions controlling the if is true, the statement associated with that if is executed, and the rest of the ladder is bypassed.
