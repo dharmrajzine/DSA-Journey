@@ -1,0 +1,4 @@
+Continue
+    The continue statement in java never terminates the execution of any loops.
+    It can only work inside the "loop statement"
+    

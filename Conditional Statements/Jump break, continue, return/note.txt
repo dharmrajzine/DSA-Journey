@@ -1,0 +1,14 @@
+Jump
+    java supports three statements break, continue and return
+
+break
+    terminate a swquence in a switch statement
+    to exit a loop
+    used as a civilized from of goto
+
+continue
+    sometimes it is useful to force an early iteration of a loop. That is you might want to continue running the loop but stop processing the remiander of the code in its body for this particular iteration.
+
+return 
+    the return statment is used to explicitly return from a method. that is it causes program control to transfer back to the caller of the method
+    

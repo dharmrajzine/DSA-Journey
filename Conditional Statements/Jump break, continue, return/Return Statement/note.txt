@@ -1,0 +1,4 @@
+Return statement
+    The return statement in java is a type of jump statement which is primarily used only inside the functions or methods.
+    If in a method any code is written after using the return statement that can be treated as an unreachable statement by the compiler.
+    
