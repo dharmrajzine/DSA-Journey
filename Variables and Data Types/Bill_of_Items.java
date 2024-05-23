@@ -15,5 +15,7 @@ public class Bill_of_Items {
         float newTotal = total + (0.18f * total);
 
         System.out.println("Bill with 10% tax : " + newTotal);
+
+        sc.close();
     }
 }

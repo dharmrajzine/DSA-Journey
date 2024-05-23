@@ -15,5 +15,7 @@ public class Average_of_3Numbers {
         int average = (A + B + C) / 3;
 
         System.out.println("average is: " + average);
+
+        sc.close();
     }
 }
