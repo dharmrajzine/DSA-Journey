@@ -1,0 +1,21 @@
+If-Else
+
+    if else  together represents the set of conditional statements in java that are executed according to the condition which is true.
+    
+syntax of if else statement
+
+    if(condition)
+    {
+        //Executes this block if
+        //condition is true
+    }
+    else{
+        //Executes this block if
+        //condition is false
+    }
+
+    
+    the if statement alone tells us that if a condition is true it will execute a block of statements and if the condition is false it wom't. but what if we wnat to do something else if the condition is false? here comes the else statement. we can use the else statement with the if statement to execute a block of code when the condition false.
+
+
+    45 53 57 51 55 50 51 63 48 52 54 62 55 49 57 60 
