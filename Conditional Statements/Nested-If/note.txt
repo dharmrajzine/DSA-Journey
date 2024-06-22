@@ -1,0 +1,3 @@
+Nested-If
+    a nested if-else statement is when you have an if-else block inside another if or else block.
+    It's like placing one decision within another decision.you use this when you want to check for a new condition after a previous condition has already been found true or false.

@@ -1,0 +1,20 @@
+Switch statement
+
+    The Switch statement in java is a multi-way branch statement. In simple words, the java Switch statement executes one statement from multiple conditions.
+
+
+    switch(expression)
+{
+  case value1 :
+     // Statements
+     break; // break is optional
+  
+  case value2 :
+     // Statements
+     break; // break is optional
+     ....
+     ....
+     ....
+   default : 
+     // default Statement
+}
