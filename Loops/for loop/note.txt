@@ -1,0 +1,8 @@
+For Loop
+    for loop provides a concise way of writing the loop structure unlike a while loop a for statement consues the initialization condtion and increment / decrement in  one line there by providing a shorter easy to debug structure of looping
+
+    syntax:
+
+    for(initialization condtion; testing condtion; increment/decrement){
+        statement(s)
+    }
